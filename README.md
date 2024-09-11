@@ -1,6 +1,4 @@
-Here's a `README.md` file tailored for the code you provided:
 
-```md
 # Discord Bot - Custom Replies and Slash Commands
 
 This Discord bot, built using `discord.js`, responds to custom text messages and handles multiple slash commands. The bot can be extended with additional functionality, allowing for interactive features in your Discord server.
